@@ -1,0 +1,6 @@
+C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
+C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe
+C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.pdb
+C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
+C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb
