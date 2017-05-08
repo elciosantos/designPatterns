@@ -4,3 +4,8 @@ C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDe
 C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.csprojResolveAssemblyReference.cache
 C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
 C:\Users\elcio\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb
+C:\Users\Usuario\Desktop\Curso Alura\designPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
+C:\Users\Usuario\Desktop\Curso Alura\designPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe
+C:\Users\Usuario\Desktop\Curso Alura\designPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.pdb
+C:\Users\Usuario\Desktop\Curso Alura\designPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
+C:\Users\Usuario\Desktop\Curso Alura\designPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb
